@@ -1,8 +1,7 @@
-# Load libraries
 library(MatchIt)
 library(dplyr)
 
-# Read in data
+
 data <- read.csv('/Users/adelaidemadary/Desktop/Thesis/Data/Municipal_charateristics/Calabria_municipal_data.csv', header = TRUE)
 
 data_nas <- data %>%
