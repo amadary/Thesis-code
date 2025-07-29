@@ -1,4 +1,4 @@
-# Install it (only once)
+
 install.packages("readxl")
 
 # Load it
